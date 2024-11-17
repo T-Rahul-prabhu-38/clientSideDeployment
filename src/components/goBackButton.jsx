@@ -4,7 +4,7 @@ import './header.css';
 
 const LegacyApp = () => {
   const navigateToLatest = () => {
-    window.location.href = 'http://localhost:5173/home'; // URL of Project 2
+    window.location.href = 'https://star-light-web-dev-kbea.vercel.app/home'; // URL of Project 2
   };
 
   return (
